@@ -1,4 +1,5 @@
 O conhecimento ilumina caminhos onde a ignorância vê paredes.
+
 Este repositório documenta minha evolução durante o curso de HTML5 e CSS3 do Gustavo Guanabara.
 
 Meu objetivo não é apenas assistir às aulas, mas transformar cada conceito aprendido em prática real. Ao final de cada módulo, desenvolvo um projeto próprio para consolidar os conhecimentos adquiridos e criar um portfólio que reflita minha evolução como desenvolvedor.
